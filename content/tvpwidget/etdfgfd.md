@@ -3,5 +3,10 @@
     "title": "etdfgfd",
     "name": "etdfgfd",
     "channelId": "121494071",
-    "layout": "bootstrap"
+    "layout": "bootstrap",
+    "css": {
+        ".carousel-arrow": {
+            "carousel_arrow_display": "block"
+        }
+    }
 }
